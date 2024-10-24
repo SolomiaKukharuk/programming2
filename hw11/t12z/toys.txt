@@ -1,0 +1,5 @@
+ball 150 3 7
+constructor 200 5 12
+doll 300 4 10
+constructor 180 6 12
+constructor 250 8 14
